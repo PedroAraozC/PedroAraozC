@@ -1,7 +1,7 @@
 
 ## Hello there! 🖖
 
-I'm **Pedro Araoz Colombres**, a passionate developer dedicated to creating innovative solutions using modern technologies like React JS, React Native, and Node JS. I specialize in web development and have a strong focus on integrating services such as databases and third-party APIs to deliver robust and functional user experiences.
+I'm **Pedro Aráoz**, a passionate developer dedicated to creating innovative solutions using modern technologies like React JS, React Native, and Node JS. I specialize in web development and have a strong focus on integrating services such as databases and third-party APIs to deliver robust and functional user experiences.
 
 ---
 
