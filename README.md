@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=PedroAraozC&show_icons=true&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroAraozC&theme=ayu_mirage)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PedroAraozC&theme=ayu_mirage&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroAraozC&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PedroAraozC&theme=tokyonight&utcOffset=8)
