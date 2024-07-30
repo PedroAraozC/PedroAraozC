@@ -36,9 +36,8 @@ I'm **Pedro Aráoz**, a passionate developer dedicated to creating innovative so
 ---
 
 ### 📫Contact
-
-- 📨 **Email:** [pedroaraozc@gmail.com](mailto:pedroaraozc@gmail.com)
-- 🔗 **LinkedIn:** [pedro-araoz-colombres](https://www.linkedin.com/in/pedro-araoz-colombres)
+  - 📨 **Email:** [pedroaraozc@gmail.com](mailto:pedroaraozc@gmail.com)
+  - 🔗 **LinkedIn:** [pedro-araoz-colombres](https://www.linkedin.com/in/pedro-araoz-colombres)
 
 <!-- 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=PedroAraozC&show_icons=true&theme=tokyonight)
