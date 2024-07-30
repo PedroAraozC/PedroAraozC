@@ -32,7 +32,6 @@ I'm **Pedro Aráoz**, a passionate developer dedicated to creating innovative so
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS"/>
 </p>
----
 
 ### 📫Contact
 
