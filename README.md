@@ -1,6 +1,18 @@
-## Hi there 👋
+
+Hello! 👋
+I'm Pedro Aráoz, a passionate developer dedicated to creating innovative solutions using modern technologies like React JS, React Native, and Node JS. I specialize in web development and have a strong focus on integrating services such as databases and third-party APIs to deliver robust and functional user experiences.
+
+About Me
+🌱 Continuous Learning: I'm constantly exploring new technologies and best practices in software development to stay at the forefront of the industry.
+👯 Open Collaboration: I’m eager to collaborate on open-source projects and initiatives that have a positive impact on the tech community.
+💬 Interests: If you have questions about web development, service integration, or just want to chat about technology, feel free to reach out.
+Contact
+📫 Email: pedroaraozc@gmail.com
+🔗 LinkedIn: pedro-araoz-colombres
 
 <!--
+## Hi there 👋
+
 **PedroAraozC/PedroAraozC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
