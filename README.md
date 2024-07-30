@@ -17,6 +17,7 @@ I'm **Pedro Aráoz**, a passionate developer dedicated to creating innovative so
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=white" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React JS"/>
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black" alt="React Native"/>
   <img src="https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white" alt="Expo"/>
