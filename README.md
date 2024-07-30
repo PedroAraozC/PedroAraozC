@@ -39,9 +39,9 @@ I'm **Pedro Aráoz**, a passionate developer dedicated to creating innovative so
 - 🔗 **LinkedIn:** [pedro-araoz-colombres](https://www.linkedin.com/in/pedro-araoz-colombres)
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=PedroAraozC&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAraozC&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroAraozC&theme=tokyonight)
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PedroAraozC&theme=tokyonight&utcOffset=8) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAraozC&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAraozC&langs_count=8&theme=tokyonight)
 -->
